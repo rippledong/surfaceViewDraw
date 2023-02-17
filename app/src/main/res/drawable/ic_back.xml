@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="30dp"
+        android:height="30dp"
+        android:viewportWidth="100"
+        android:viewportHeight="100">
+    <path
+        android:pathData="M70,20 L30,50 L70,80 "
+        android:strokeWidth="10"
+        android:strokeColor="#303030"/>
+    <!--<path-->
+    <!--android:name="edge"-->
+    <!--android:pathData="h100,0 v0,100 h-100,0 v0,-100"-->
+    <!--android:strokeWidth="1"-->
+    <!--android:strokeColor="#151999"/>-->
+</vector>
